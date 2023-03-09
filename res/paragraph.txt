@@ -1,0 +1,4 @@
+This is a paragraph of random text. I have to use this for my java class. I will itterate through this text file to 
+find individual words and how often they appear in this paragraph. I hold the data temporarly in a java class
+called word frequency and then I will print it to a web page in HTML format. It will be held in a table 
+so the users can easily see the data in a proper way
